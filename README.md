@@ -15,7 +15,7 @@
 
 <h2>Coding Projects</h2>
 
-<h3>XCode</h3>
+<h3>Xcode</h3>
 
 - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
 
