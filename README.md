@@ -5,7 +5,7 @@
 <h3>Python</h3>
 
 - [Arrow Trajectory Monte Carlo Simulator](https://github.com/pattywhack3589/ArrowTrajectory)
-- [Comparing Job Description With Resume Using Natural Language Processing](https://github.com/pattywhack3589/ArrowTrajectory)
+- [Comparing Job Descriptions With Resume Using Natural Language Processing](https://github.com/pattywhack3589/ArrowTrajectory)
 - [Proposing Interesting Books Using Personal Reading History and GoodReads Ratings](https://github.com/pattywhack3589/ArrowTrajectory)
 - [March Madness Predictive Model](https://github.com/pattywhack3589/ArrowTrajectory)
 
