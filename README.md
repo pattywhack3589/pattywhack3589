@@ -1,22 +1,33 @@
 <h1>Hi, I'm Pat! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
 
-<h2>👨‍💻 Data Analysis Projects:</h2>
-- **Python**
-  - [Arrow Trajectory Monte Carlo Simulator](https://github.com/pattywhack3589/ArrowTrajectory)
-  - [Comparing Job Description With Resume Using Natural Language Processing](https://github.com/pattywhack3589/ArrowTrajectory)
-  - [Proposing Interesting Books Using Personal Reading History and GoodReads Ratings](https://github.com/pattywhack3589/ArrowTrajectory)
-  - [March Madness Predictive Model](https://github.com/pattywhack3589/ArrowTrajectory)
-- **R**
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-<h2>👨‍💻 Coding Projects:</h2>
-- <b>[XCode]</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-<h2>Mechanial Engineering and Design:</h2>
-- <b>OnShape</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+<h2>Data Analysis Projects</h2>
+
+<h3>Python</h3>
+
+- [Arrow Trajectory Monte Carlo Simulator](https://github.com/pattywhack3589/ArrowTrajectory)
+- [Comparing Job Description With Resume Using Natural Language Processing](https://github.com/pattywhack3589/ArrowTrajectory)
+- [Proposing Interesting Books Using Personal Reading History and GoodReads Ratings](https://github.com/pattywhack3589/ArrowTrajectory)
+- [March Madness Predictive Model](https://github.com/pattywhack3589/ArrowTrajectory)
+
+<h3>R</h3>
+
+- [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
+
+<h2>Coding Projects</h2>
+
+<h3>XCode</h3>
+
+- [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+
+<h2>Mechanial Engineering and Design Projects</h2>
+
+<h3>OnShape</h3>
+
+- [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
+- [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
+- [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
+- [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
