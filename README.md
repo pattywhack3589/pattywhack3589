@@ -17,6 +17,10 @@
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
 - <b>Python</b>
   - [Arrow Trajectory Monte Carlo Simulator](https://github.com/pattywhack3589/ArrowTrajectory)
+  - [Comparing Job Description With Resume Using Natural Language Processing](https://github.com/pattywhack3589/ArrowTrajectory)
+  - [Proposing Interesting Books Using Personal Reading History and GoodReads Ratings](https://github.com/pattywhack3589/ArrowTrajectory)
+  - [March Madness Predictive Model](https://github.com/pattywhack3589/ArrowTrajectory)
+
 
 <h2> 🤳 Connect with me:</h2>
 
