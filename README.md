@@ -11,7 +11,7 @@
 
 <h3>R</h3>
 
-- [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
+- [Conjoint Analysis - Marketing Analytics (MBA748A: Dr. Pranav Jindal)](https://github.com/joshmadakor1/EncrypterPOC)
 
 <h2>Coding Projects</h2>
 
