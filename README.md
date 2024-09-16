@@ -19,7 +19,7 @@
 
 <h3>Javascript</h3>
 
-- [Creating an API Using Fastify](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+- [Creating an API Using Fastify](https://github.com/pattywhack3589/fastifty_api_practice)
 
 <h3>Xcode</h3>
 
