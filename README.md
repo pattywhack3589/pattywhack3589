@@ -7,7 +7,7 @@
 - [Modeling Arrow Trajectory and Accuracy at Various Flight Velocities Using Monte Carlo Simulation](https://github.com/pattywhack3589/ArrowTrajectory)
 - [Comparing Job Descriptions With Resume Using Natural Language Processing](https://github.com/pattywhack3589/ArrowTrajectory)
 - [Proposing Interesting Books With NLP Using Personal Reading History and GoodReads Ratings](https://github.com/pattywhack3589/ArrowTrajectory)
-- [Graduate Hotels Capstone Project - ](https://github.com/pattywhack3589/ArrowTrajectory)
+- [Graduate Hotels Capstone Project](https://github.com/pattywhack3589/ArrowTrajectory)
 - [March Madness Predictive Model](https://github.com/pattywhack3589/ArrowTrajectory)
 
 <h3>R</h3>
