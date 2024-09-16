@@ -4,11 +4,9 @@
 
 <h3>Python</h3>
 
+- [March Madness Predictive Model](https://github.com/pattywhack3589/march_madness_predictor)
 - [Modeling Arrow Trajectory and Accuracy at Various Flight Velocities Using Monte Carlo Simulation](https://github.com/pattywhack3589/ArrowTrajectory)
 - [Comparing Job Descriptions With Resume Using Natural Language Processing](https://github.com/pattywhack3589/job_fit_nlp)
-- [Proposing Interesting Books With NLP Using Personal Reading History and GoodReads Ratings](https://github.com/pattywhack3589/ArrowTrajectory)
-- [Graduate Hotels Capstone Project](https://github.com/pattywhack3589/ArrowTrajectory)
-- [March Madness Predictive Model](https://github.com/pattywhack3589/march_madness_predictor)
 - [Graphing My Vitals When COVID Positive](https://github.com/pattywhack3589/covid_vitals_tracking)
 
 <h3>R</h3>
