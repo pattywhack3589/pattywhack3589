@@ -9,7 +9,7 @@
 - [Proposing Interesting Books With NLP Using Personal Reading History and GoodReads Ratings](https://github.com/pattywhack3589/ArrowTrajectory)
 - [Graduate Hotels Capstone Project](https://github.com/pattywhack3589/ArrowTrajectory)
 - [March Madness Predictive Model](https://github.com/pattywhack3589/ArrowTrajectory)
-- [Graphing My Vitals When COVID Positive](https://github.com/pattywhack3589/ArrowTrajectory)
+- [Graphing My Vitals When COVID Positive](https://github.com/pattywhack3589/covid_vitals_tracking)
 
 <h3>R</h3>
 
